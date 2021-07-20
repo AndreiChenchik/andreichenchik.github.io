@@ -32,7 +32,7 @@ linkedin_username: achenchik
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fas file-pdf
+  icon: fas fa-file-pdf
   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
