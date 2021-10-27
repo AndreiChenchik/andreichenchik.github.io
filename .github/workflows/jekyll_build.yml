@@ -23,7 +23,7 @@ jobs:
           path: ./build
           pinata-api-key: ${{ secrets.PINATA_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_SECRET }}
-          verbose: true
+          verbose: false
           remove-old: true
       - name: Update DNS
         shell: bash
