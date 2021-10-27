@@ -24,7 +24,7 @@ jobs:
           pinataKey: ${{ secrets.PINATA_KEY }}
           pinataSecret: ${{ secrets.PINATA_SECRET }}
           pinataPinName: Blog
-      - name: Try to print output
-        run: echo ${{ join(steps.push_to_ipfs.outputs.*) }}
+      - name: Update DNS
+        run: wget -qO- ${{ secrets.DYNADOT_ZONE_API_URL }}${{ join(steps.push_to_ipfs.outputs.*) }}
         
         
