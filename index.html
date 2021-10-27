@@ -1,0 +1,40 @@
+---
+layout: default
+current: home
+class: 'home-template'
+navigation: True
+---
+
+<!-- < default -->
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
+
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+<header class="site-header outer {% if page.cover or site.cover %}" style="background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)), url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}; background-blend-mode: cover;">
+    <div class="inner">
+        <div class="site-header-content">
+            
+            <h1 class="site-title">
+                {% if site.author_image %}
+                    <img class="author-profile-image" src="{{ site.baseurl }}{{ site.author_image }}" alt="{{ site.title }}">
+                {% else %}
+                    {{ site.title }}
+                {% endif %}
+            </h1>
+            <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
+        </div>
+        {% include site-nav.html %}
+    </div>
+</header>
+
+<!-- The main content area -->
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <div class="post-feed">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            {%  include post-card.html %}
+        </div>
+
+    </div>
+</main>
