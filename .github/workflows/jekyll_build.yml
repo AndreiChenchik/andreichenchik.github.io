@@ -25,6 +25,11 @@ jobs:
           pinataSecret: ${{ secrets.PINATA_SECRET }}
           pinataPinName: Blog
       - name: Update DNS
-        run: wget -qO- ${{ secrets.DYNADOT_ZONE_API_URL }}${{ join(steps.push_to_ipfs.outputs.*) }}
+        shell: bash
+        env:
+          DYNADOT_ZONE_API_URL: ${{ secrets.DYNADOT_ZONE_API_URL }}
+          IPFS_CID: ${{ join(steps.push_to_ipfs.outputs.*) }}
+        run: |
+          run: wget -qO- "$DYNADOT_ZONE_API_URL$IPFS_CID"
         
         
