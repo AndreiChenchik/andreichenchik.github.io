@@ -5,6 +5,7 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   github-pages:
@@ -15,9 +16,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
-      - name: Where are we?
-        run: |
-          pwd
-          ls -la
-          cd build
-          ls -la
+      - uses: aquiladev/ipfs-action@v1
+        with:
+          path: ./build
+          service: pinata
+          pinataKey: ${{ secrets.PINATA_KEY }}
+          pinataSecret: ${{ secrets.PINATA_SECRET }}
+          pinataPinName: Blog
