@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@2.2.0
+      - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
@@ -25,8 +25,6 @@ jobs:
           pinataSecret: ${{ secrets.PINATA_SECRET }}
           pinataPinName: Blog
       - name: Update DNS
-        run: wget -qO- "${{ secrets.DYNADOT_ZONE_API_URL }}${{ join(steps.push_to_ipfs.outputs.*) }}"
-      - name: Update DNS 2
-        run: wget -qO- ${{ secrets.DYNADOT_ZONE_API_URL }}
+        run: wget -qO- ${{ secrets.DYNADOT_ZONE_API_URL }}${{ join(steps.push_to_ipfs.outputs.*) }}
         
         
