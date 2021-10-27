@@ -26,5 +26,7 @@ jobs:
           pinataPinName: Blog
       - name: Update DNS
         run: wget -qO- "${{ secrets.DYNADOT_ZONE_API_URL }}${{ join(steps.push_to_ipfs.outputs.*) }}"
+      - name: Update DNS 2
+        run: wget -qO- ${{ secrets.DYNADOT_ZONE_API_URL }}
         
         
