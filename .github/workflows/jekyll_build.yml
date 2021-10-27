@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
       - uses: anantaramdas/ipfs-pinata-deploy-action@v1.6.4
-        id: new_push_to_ipfs
+        id: push_to_ipfs
         with:
           pin-name: Blog
           path: ./build
@@ -25,16 +25,6 @@ jobs:
           pinata-secret-api-key: ${{ secrets.PINATA_SECRET }}
           verbose: true
           remove-old: true
-      - name: test new script
-        run: echo ${{ join(steps.new_push_to_ipfs.outputs.*) }}
-      - uses: aquiladev/ipfs-action@v0.1.6
-        id: push_to_ipfs
-        with:
-          path: ./build
-          service: pinata
-          pinataKey: ${{ secrets.PINATA_KEY }}
-          pinataSecret: ${{ secrets.PINATA_SECRET }}
-          pinataPinName: Blog
       - name: Update DNS
         shell: bash
         env:
