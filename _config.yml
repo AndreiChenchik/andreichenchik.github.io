@@ -6,11 +6,11 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
 title: Andrei Chenchik
-description: ¡Hola! My name’s Andrei and I’m a Swift Software Engineer & Entrepreneur with over 10 years experience. I create useful products with simple & intuitive interfaces.
+description: ¡Hola! My name’s Andrei and I’m a Swift Software Engineer & Entrepreneur with over 10 years of experience in mobile development field. I create useful products with simple & intuitive interfaces.
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 author_image: assets/images/andrei.jpg
@@ -31,7 +31,7 @@ disqus: False
 disqus_shortname: jekyllt # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: False # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
