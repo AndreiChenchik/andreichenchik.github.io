@@ -17,9 +17,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
       - uses: aquiladev/ipfs-action@v0.1.6
+        id: push_to_ipfs
         with:
           path: ./build
           service: pinata
           pinataKey: ${{ secrets.PINATA_KEY }}
           pinataSecret: ${{ secrets.PINATA_SECRET }}
           pinataPinName: Blog
+      - name: Try to print output
+        run: echo ${{ join(steps.push_to_ipfs.outputs.*) }}
+        
+        
