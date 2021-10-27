@@ -30,6 +30,6 @@ jobs:
           DYNADOT_ZONE_API_URL: ${{ secrets.DYNADOT_ZONE_API_URL }}
           IPFS_CID: ${{ join(steps.push_to_ipfs.outputs.*) }}
         run: |
-          run: wget -qO- "$DYNADOT_ZONE_API_URL$IPFS_CID"
+          wget -qO- "$DYNADOT_ZONE_API_URL$IPFS_CID"
         
         
