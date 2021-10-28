@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/eecc82103001163.5f4660b3f3105.png
 navigation: True
 title: Simply Receipts
-date: 2021-10-27 10:00:00
+date: 2222-01-01 10:00:00
 tags: [Projects]
 class: post-template
 subclass: 'post'

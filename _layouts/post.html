@@ -26,14 +26,14 @@ into the {body} of the default.hbs template -->
 
             <header class="post-full-header">
                 <section class="post-full-meta">
-                    {% assign post_next_date = page.date | date: '%s' | plus: 86400 %}
+                    {% assign post_pre_date = page.date | date: '%s' | minus: 86400 %}
                     {% assign today_date = 'now' | date: '%s' | times: 1 %}
 
-                    {% if post_next_date < today_date %}
+                    {% if post_pre_date < today_date %}
                         <time class="post-full-meta-date" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
                     {% endif %}
                     
-                    {% if page.tags.size > 0 and post_next_date < today_date %}
+                    {% if page.tags.size > 0 and post_pre_date < today_date %}
                         <span class="date-divider">/</span>
                     {% endif %}
 
