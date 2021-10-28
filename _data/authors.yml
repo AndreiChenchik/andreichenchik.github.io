@@ -2,7 +2,7 @@ chenchik:
   username: chenchik
   name: Andrei
   location: Barcelona, Catalunya
-  url_full: http://chenchik.me/jasper2/about/
+  url_full: /about/
   url: chenchik.me
   bio: Swift Software Engineer & Entrepreneur
   picture: assets/images/andrei.jpg
