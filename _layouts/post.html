@@ -116,6 +116,16 @@ into the {body} of the default.hbs template -->
                 </section>
             {% endif %}
 
+            {% if site.utteranc or page.utteranc %}
+                <script src="https://utteranc.es/client.js"
+                    repo="{{ utteranc_repo }}"
+                    issue-term="{{ utteranc_issue_term }}"
+                    label="{{ utteranc_label }}"
+                    theme="{{ utteranc_theme }}"
+                    crossorigin="anonymous"
+                    async>
+                </script>
+            {% endif %}
         </article>
 
     </div>
