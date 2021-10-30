@@ -4,11 +4,10 @@
 
 ## Thanks
 
-Many thanks to [Fábio Madeira](https://github.com/biomadeira) for [Jasper2 theme](https://github.com/jekyllt/jasper2) for Jekyll
+Many thanks to [Fábio Madeira](https://github.com/biomadeira) for [Jasper2 theme](https://github.com/jekyllt/jasper2) for Jekyll, and to [Jeremy Danyow](https://github.com/jdanyow) for [utterances](https://utteranc.es) that provides this website with discussion capabilities. 
 
 Many thanks to the Ghost team for all the design work. Also many thanks to all contributors,
 that help keeping the project alive and updated :smile:
-
 
 ## Copyright & License
 
