@@ -32,11 +32,11 @@ disqus: False
 disqus_shortname: jekyllt # replace with your disqus username
 
 # Utteranc comments
-utteranc: True
-utteranc_repo: AndreiChenchik/andreichenchik.github.io
-utteranc_issue_term: pathname
-utteranc_label: blog
-utteranc_theme: preferred-color-scheme
+utterances: True
+utterances_repo: AndreiChenchik/andreichenchik.github.io
+utterances_issue_term: pathname
+utterances_label: blog
+utterances_theme: preferred-color-scheme
 
 # Google Analytics
 google_analytics: False # replace with your GA tracking identifier

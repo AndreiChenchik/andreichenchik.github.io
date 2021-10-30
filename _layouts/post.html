@@ -116,12 +116,12 @@ into the {body} of the default.hbs template -->
                 </section>
             {% endif %}
 
-            {% if site.utteranc or page.utteranc %}
+            {% if site.utterances or page.utteranc %}
                 <script src="https://utteranc.es/client.js"
-                    repo="{{ utteranc_repo }}"
-                    issue-term="{{ utteranc_issue_term }}"
-                    label="{{ utteranc_label }}"
-                    theme="{{ utteranc_theme }}"
+                    repo="{{ site.utterances_repo }}"
+                    issue-term="{{ site.utterances_issue_term }}"
+                    label="{{ site.utterances_label }}"
+                    theme="{{ site.utterances_theme }}"
                     crossorigin="anonymous"
                     async>
                 </script>
