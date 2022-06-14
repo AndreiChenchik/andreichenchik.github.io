@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/smartreceipts.png
 navigation: True
 title: Simply Receipts
-date: 2222-01-01 10:00:00
+date: 2021-09-25 14:12:00
 tags: [Projects]
 class: post-template
 subclass: 'post'
