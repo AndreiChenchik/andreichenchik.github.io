@@ -10,34 +10,36 @@ subclass: 'post'
 author: chenchik
 ---
 
-Время от времени каждый из нас может ошибочно оценить происходящее, и чаще это происходит настолько быстро, что прежде чем осознать ошибку, мы успеваем совершить ошибычное действие, исходя из этой оценки. Бывает это приводит к конфликтам, а может и повлечь за собой серьезные последствия, если такие решения принимались в отношении будущего, финансов или бизнеса.
+From time to time each one of us can make a mistake, and more often than not this happens so quickly that before we realize the mistake, we take an erroneous action based on this assessment. This can lead to conflict, and it can have serious consequences if such decisions are made about the future, finances, or business.
 
-Неудобно, да? Так почему же мы не можем оставаться 100% рациональными? 
+Uncomfortable, right? So why can't we stay 100% rational? 
 
-## Что у нас в голове
-Оказывается, наш мозг очень сложный вычислительный центр, обрабатывающий большие объемы данных, поступающие от органов чувств. А эволюция оптимизировала этот центр отвечать на входные данные с минимальной задержкой, чтобы успеть сохранить жизнь в критической ситуации и не упустить выгоду, которая поможет процветанию в будущем.
+## What's in our heads?
+It turns out that our brains are a very complex processing center, processing large amounts of data from our senses. And evolution has optimized this center to respond to inputs with as little delay as possible in order to keep us alive in a critical situation and not miss out on the benefits that will help us thrive in the future.
 
-Из-за перекоса в сторону скорости работы наша система мышления обладает неудобными особенностями, и автоматически мозг выбирает самый простой способ оценить ситуацию и сделать выводы на основе той информации, которая у него есть. Очень сложно осознать, что у нас нет достаточного кол-ва данных для оценки ситуаций, гораздо проще просто сделать вывод. 
+Because of that, our thinking system chooses the easiest way to assess the situation and draw conclusions based on the information it has. It's very difficult to realize that we don't have enough data to evaluate situations, it's much easier to just draw a conclusion. 
 
-## Интуиция
-В итоге процесс мышления выглядит так:
-1. Сбор данных
-2. Поиск самой простой эвристики по оценке ситуации на основе найденных данных
-3. Использование эвристики и получение ответа
+## Intuition is not 100% accurate
+In simple terms the thought process looks like this:
+1. Collecting data
+2. Finding the simplest heuristic to assess the situation based on the data found
+3. Using the heuristic and getting an answer
 
-Набор эвристик, которые "сохранены" у нас в голове можно назвать "интуицией", они оптимизированы на очень быстрый и упрощенный ответ, работают моментально. В случае, если мы в какой-то области эксперты - у нас более широкий каталог эвристик с большим набором входящих параметров. 
+The set of heuristics that are "stored" in our head can be called "intuition", they are optimized for a very fast and simplified answer, they work instantly. In case we have expertiese in some field: we have a wider catalog of heuristics with a larger set of input parameters. 
 
-И тут появляется первая возможность ошибиться - не факт, что самая простая и упрощенная эвристика будет статистически правильнее других, но учитывая архитектуру мозга, от такой ошибки не застрахованы даже те, кто хорошо знают статистику. 
+And here comes the first possibility to make a mistake - the simplest heuristic may not be statistically more correct than any other, but given the architecture of the brain, even those who know statistics quite well are not immune to such an error. 
 
-## Подмена
-А что если поиск эвристик не дал результата? В этот момент наш мозг начнет подменять вопрос, на который мы пытаемся ответить, для повторного поиска эвристики. Например:
-- Вместо: принесет ли мне прибыль покупка акций этой компании?
-- Спрашиваем себя: нравится ли мне эта компания?
+## Hidden substitution 
+What if the search for heuristics fails? At that point, our brains will begin to substitute the question we are trying to answer in order to search for the heuristic again. For example:
+- Instead of: will I make a profit buying stocks of this company?
+- We ask ourselves: do I like this company?
 
-## Медленное мышление
-В случае, если мы не смогли найти ответа, обработка переходят из интуитивного блока в более сложный и медленный блок глубокого мышления, где мы можем вести диалог у себя в голове и оценивать ситуацию в несколько тактов.
+Of course this will lead us to an error. 
 
-## Что же делать?
-Учитывая системность алгоритма мы можем выделить основные "упрощающие эвристики" (или [когнитивные искажения](https://en.wikipedia.org/wiki/Cognitive_bias)), замечать их в своих/чужих поступках и мыслях и не давать себе принимать финальные решения основываясь на них. 
+## Slow Thinking is our friend
+In case we couldn't find an answer, processing shifts from the intuitive block to the more complex and slower block of deep thinking, where we can have a dialogue in our head and assess the situation in more complex scenarios that have more steps.
 
-Этот текст написан по мотивам удивительно интересной книги [Daniel Kahneman. THINKING, FAST AND SLOW](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), которую я всем рекомендую к прочтению.
+## What to do?
+Given the systematic nature of the algorithm, we can identify the main "simplifying heuristics" (or [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias)), notice them in our own/others' actions and thoughts, and prevent ourselves from making final decisions based on them. 
+
+This text is based on the wonderfully interesting book [Daniel Kahneman. THINKING, FAST AND SLOW](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), which I recommend everyone read.
