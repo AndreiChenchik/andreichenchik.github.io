@@ -11,7 +11,7 @@ subclass: 'post page'
 
 I'm someone who is passionate about finding simple solutions while building complex systems, to have time for fine details later.
 
-Founder of [Simply Receipts](https://chenchik.me/simply-receipts.html) and [enableOps](https://enableops.io), **open for job** offers.
+Creator of [Simply Receipts](https://chenchik.me/simply-receipts.html) and [enableOps](https://enableops.io), **open for job** offers.
 
 Focusing on **Swift** lately, and capable of working in full-stack-mode, writing my code from Barcelona. Check my pinned repositories. 
 
