@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>¡Hola! My name’s Andrei and I’m a Swift Software Engineer &amp; Entrepreneur with over 10 years of experience in mobile development field. I create useful products with simple &amp; intuitive interfaces.</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Why aren't we 100% rational?</title>
+        
+          <description>&lt;p&gt;From time to time each one of us can make a mistake, and more often than not this happens so quickly that before we realize the mistake, we take an erroneous action based on this assessment. This can lead to conflict, and it can have serious consequences if such decisions are made about the future, finances, or business.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 14 Jul 2022 10:00:00 +0000</pubDate>
+        <link>
+        /why-cognitive-bias</link>
+        <guid isPermaLink="true">/why-cognitive-bias</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Simply Receipts</title>
+        
+          <description>&lt;p&gt;I started this project as a way if learning Swift and it has since grown into a fully fledged app. I have learned many skills through this and been I’m very proud of having this in my portfolio. If you don’t have a project as awesome as this I would advise you make one.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 25 Sep 2021 14:12:00 +0000</pubDate>
+        <link>
+        /simply-receipts</link>
+        <guid isPermaLink="true">/simply-receipts</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
