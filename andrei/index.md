@@ -9,12 +9,11 @@ subclass: 'post page'
 
 **Привет!**
 
-I'm someone who is passionate about finding simple solutions while building complex systems, to have time for fine details later.
+I have over 7 years in mobile apps as a product lead and 1 year as a developer. During my career, I went the whole way from a support specialist, though a frontend developer, project and product lead and have chosen to grow as Swift Developer. I think the Swift ecosystem is the best one right now and have all chances to become significant in all fields (not just mobile) due to the constant evolution of the language and LLVM.
 
-Creator of [Simply Receipts](https://chenchik.me/simply-receipts.html) and [enableOps](https://enableops.io), **open for job** offers.
+I believe that the only way to truly overcome a challenge is to build a deep understanding of the systems around it and then build your solution on top of that. That is why in my work I'm practising a holistic approach, and system thinking and constantly growing my knowledge in multiple disciplines like Mobile, Deep Learning, Backend, DevOps, etc.
 
-Focusing on **Swift** lately, and capable of working in full-stack-mode, writing my code from Barcelona. Check my pinned repositories. 
-
+Always looking forward to working and learning from dynamic teams, tackling hard challenges with lots of data, and complex and snappy UIs to deliver business value to customers.
 
 What I do
 - **Mobile** on Swift with UIKit or SwiftUI: [Simply Receipts](https://chenchik.me/simply-receipts.html), source
@@ -22,12 +21,10 @@ What I do
 - **Backend** on Python with FastAPI, Strawberry GraphQL, Postgres and Reddis: [enableOps api](), [*source*](https://github.com/enableops/api-service)
 - **DevOps** on Kubernetes with Pulumi, ArgoCD and GitHub Actions: [local GitOps & IaaC, source](https://github.com/AndreiChenchik/local-cluster)
 
-
 Skills
 - **Critical thinking and problem solving**: if you have a problem I will provide a working solution
-- **Can manage full cycle of software development**: have prior experience as team leader of team 20+ ppl
-- **Businisses analysis**: have prior experience as product manager and data analyst
-
+- **Can manage the full cycle of software development**: have prior experience as team leader of a team 25 ppl
+- **Businesses analysis**: have prior experience as a product manager and data analyst
 
 Fun facts
 - The one who walk the walk: [did 400km of Camino de Santiago in 2022, starting from Leon](https://storyteller.fit/album/384)
@@ -39,7 +36,7 @@ Fun facts
 
 Sometimes I write [blog](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/achenchik/) to talk about jobs. 
 
-Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/releases/latest/download/AndreiChenchik-CV.pdf) or [**view** on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/cv.md)!
 
+Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/raw/main/cv/AndreiChenchik-CV.pdf) or [**view** on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/AndreiChenchik-CV.md)!
 
 
