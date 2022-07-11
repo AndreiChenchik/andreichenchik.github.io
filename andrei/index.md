@@ -34,7 +34,7 @@ Fun facts
 - My PGP fingerprint is [16F2 94C8 5A67 F0D5 1E54 8ACB A688 B7C1 16CA 5B13](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/andrei.asc) 
 
 
-Sometimes I write [blog](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/achenchik/) to talk about jobs. 
+Sometimes I write [blog](https://chenchik.me) and [tweet](https://twitter.com/AndreiChenchik) thoughts. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/AndreiChenchik) to talk about jobs. 
 
 
 Looking for my **CV**? [Get **PDF**](https://github.com/AndreiChenchik/AndreiChenchik/raw/main/cv/AndreiChenchik-CV.pdf) or [**view** on GitHub](https://github.com/AndreiChenchik/AndreiChenchik/blob/main/cv/AndreiChenchik-CV.md)!
