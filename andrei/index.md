@@ -16,10 +16,10 @@ I believe that the only way to truly overcome a challenge is to build a deep und
 Always looking forward to working and learning from dynamic teams, tackling hard challenges with lots of data, and complex and snappy UIs to deliver business value to customers.
 
 What I do
-- **Mobile** on Swift with UIKit or SwiftUI: [Simply Receipts](https://chenchik.me/simply-receipts.html), source
-- **Web** on TypeScript with React and Nextjs: [enableOps website](https://enableops.io), [*source*](https://github.com/enableops/enableops.github.io/tree/main/src/components)
-- **Backend** on Python with FastAPI, Strawberry GraphQL, Postgres and Reddis: [enableOps api](), [*source*](https://github.com/enableops/api-service)
-- **DevOps** on Kubernetes with Pulumi, ArgoCD and GitHub Actions: [local GitOps & IaaC, source](https://github.com/AndreiChenchik/local-cluster)
+- **Mobile** using Swift with UIKit, SwiftUI, CoreData, CloudKit : [Simply Receipts](https://github.com/AndreiChenchik/receipt)
+- **Web** using TypeScript with React and Nextjs: [enableOps website](https://github.com/enableops/enableops.github.io/tree/main/src/components)
+- **Backend** using Python with FastAPI, Strawberry GraphQL, Postgres and Reddis: [enableOps api](https://github.com/enableops/api-service)
+- **DevOps** using Kubernetes with Pulumi, ArgoCD and GitHub Actions: [local GitOps & IaaC](https://github.com/AndreiChenchik/local-cluster)
 
 Skills
 - **Critical thinking and problem solving**: if you have a problem I will provide a working solution
