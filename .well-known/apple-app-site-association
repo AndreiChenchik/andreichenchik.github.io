@@ -1,6 +1,3 @@
-layout: none
-permalink: .well-known/apple-app-site-association
-
 {
    "webcredentials": {
       "apps": [ "EJB6G3VCF7.com.saalDigital.DIYPhotoshoot" ]
