@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-01-03T09:26:04+00:00</updated><id>/feed.xml</id><title type="html">Andrei Chenchik</title><subtitle>¡Hola! My name’s Andrei and I’m a Swift Software Engineer &amp; Entrepreneur with over 10 years of experience in mobile development field. I create useful products with simple &amp; intuitive interfaces.</subtitle><entry><title type="html">Why aren’t we 100% rational?</title><link href="/why-cognitive-bias" rel="alternate" type="text/html" title="Why aren’t we 100% rational?" /><published>2022-07-14T10:00:00+00:00</published><updated>2022-07-14T10:00:00+00:00</updated><id>/why-cognitive-bias</id><content type="html" xml:base="/why-cognitive-bias">&lt;p&gt;From time to time each one of us can make a mistake, and more often than not this happens so quickly that before we realize the mistake, we take an erroneous action based on this assessment. This can lead to conflict, and it can have serious consequences if such decisions are made about the future, finances, or business.&lt;/p&gt;
+
+&lt;p&gt;Uncomfortable, right? So why can’t we stay 100% rational?&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-in-our-heads&quot;&gt;What’s in our heads?&lt;/h2&gt;
+&lt;p&gt;It turns out that our brains are a very complex processing center, processing large amounts of data from our senses. And evolution has optimized this center to respond to inputs with as little delay as possible in order to keep us alive in a critical situation and not miss out on the benefits that will help us thrive in the future.&lt;/p&gt;
+
+&lt;p&gt;Because of that, our thinking system chooses the easiest way to assess the situation and draw conclusions based on the information it has. It’s very difficult to realize that we don’t have enough data to evaluate situations, it’s much easier to just draw a conclusion.&lt;/p&gt;
+
+&lt;h2 id=&quot;intuition-is-not-100-accurate&quot;&gt;Intuition is not 100% accurate&lt;/h2&gt;
+&lt;p&gt;In simple terms the thought process looks like this:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Collecting data&lt;/li&gt;
+  &lt;li&gt;Finding the simplest heuristic to assess the situation based on the data found&lt;/li&gt;
+  &lt;li&gt;Using the heuristic and getting an answer&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The set of heuristics that are “stored” in our head can be called “intuition”, they are optimized for a very fast and simplified answer, they work instantly. In case we have expertiese in some field: we have a wider catalog of heuristics with a larger set of input parameters.&lt;/p&gt;
+
+&lt;p&gt;And here comes the first possibility to make a mistake - the simplest heuristic may not be statistically more correct than any other, but given the architecture of the brain, even those who know statistics quite well are not immune to such an error.&lt;/p&gt;
+
+&lt;h2 id=&quot;hidden-substitution&quot;&gt;Hidden substitution&lt;/h2&gt;
+&lt;p&gt;What if the search for heuristics fails? At that point, our brains will begin to substitute the question we are trying to answer in order to search for the heuristic again. For example:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instead of: will I make a profit buying stocks of this company?&lt;/li&gt;
+  &lt;li&gt;We ask ourselves: do I like this company?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course this will lead us to an error.&lt;/p&gt;
+
+&lt;h2 id=&quot;slow-thinking-is-our-friend&quot;&gt;Slow Thinking is our friend&lt;/h2&gt;
+&lt;p&gt;In case we couldn’t find an answer, processing shifts from the intuitive block to the more complex and slower block of deep thinking, where we can have a dialogue in our head and assess the situation in more complex scenarios that have more steps.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-to-do&quot;&gt;What to do?&lt;/h2&gt;
+&lt;p&gt;Given the systematic nature of the algorithm, we can identify the main “simplifying heuristics” (or &lt;a href=&quot;https://en.wikipedia.org/wiki/Cognitive_bias&quot;&gt;cognitive biases&lt;/a&gt;), notice them in our own/others’ actions and thoughts, and prevent ourselves from making final decisions based on them.&lt;/p&gt;
+
+&lt;p&gt;This text is based on the wonderfully interesting book &lt;a href=&quot;https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555&quot;&gt;Daniel Kahneman. THINKING, FAST AND SLOW&lt;/a&gt;, which I recommend everyone read.&lt;/p&gt;</content><author><name>Andrei</name></author><summary type="html">From time to time each one of us can make a mistake, and more often than not this happens so quickly that before we realize the mistake, we take an erroneous action based on this assessment. This can lead to conflict, and it can have serious consequences if such decisions are made about the future, finances, or business.</summary></entry><entry><title type="html">Simply Receipts</title><link href="/simply-receipts" rel="alternate" type="text/html" title="Simply Receipts" /><published>2021-09-25T14:12:00+00:00</published><updated>2021-09-25T14:12:00+00:00</updated><id>/simply-receipts</id><content type="html" xml:base="/simply-receipts">&lt;p&gt;I started this project as a way if learning Swift and it has since grown into a fully fledged app. I have learned many skills through this and been I’m very proud of having this in my portfolio. If you don’t have a project as awesome as this I would advise you make one.&lt;/p&gt;</content><author><name>Andrei</name></author><category term="Projects" /><summary type="html">I started this project as a way if learning Swift and it has since grown into a fully fledged app. I have learned many skills through this and been I’m very proud of having this in my portfolio. If you don’t have a project as awesome as this I would advise you make one.</summary></entry></feed>

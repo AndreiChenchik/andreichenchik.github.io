@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/projects/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2023-01-03T09:26:04+00:00</updated>
+  <id>/tag/projects/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Andrei Chenchik | </title>
+  
+
+  
+    <subtitle>¡Hola! My name’s Andrei and I’m a Swift Software Engineer &amp; Entrepreneur with over 10 years of experience in mobile development field. I create useful products with simple &amp; intuitive interfaces.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Simply Receipts</title>
+      <link href="/simply-receipts" rel="alternate" type="text/html" title="Simply Receipts" />
+      <published>2021-09-25T14:12:00+00:00</published>
+      <updated>2021-09-25T14:12:00+00:00</updated>
+      <id>/simply-receipts</id>
+      <content type="html" xml:base="/simply-receipts">&lt;p&gt;I started this project as a way if learning Swift and it has since grown into a fully fledged app. I have learned many skills through this and been I’m very proud of having this in my portfolio. If you don’t have a project as awesome as this I would advise you make one.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Andrei</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Projects" />
+      
+
+      
+        <summary type="html">I started this project as a way if learning Swift and it has since grown into a fully fledged app. I have learned many skills through this and been I’m very proud of having this in my portfolio. If you don’t have a project as awesome as this I would advise you make one.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
