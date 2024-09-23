@@ -1,14 +1,12 @@
-baseURL: https://example.org/
+baseURL: https://chenchik.me/
 languageCode: en-us
-title: My New Hugo Site
+title: chenchik.me
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://andreichenchik.github.io/"
-title: Andrei Chenchik
-copyright: "© [Andre Chenchik](https://github.com/andreichenchik)"
+copyright: "© [Andrei Chenchik](https://github.com/andreichenchik)"
 paginate: 5
 
 enableInlineShortcodes: true
