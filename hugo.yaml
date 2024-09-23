@@ -55,7 +55,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description: "Software Engineer"
   author: Andrei Chenchik
   # author: ["Me", "You"] # multiple authors
 
@@ -73,7 +73,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   # comments: false
-  images: ["images/papermod-cover.png"]
+  # images: ["images/papermod-cover.png"]
 
   profileMode:
     enabled: false
@@ -111,7 +111,7 @@ params:
       url: "/index.xml"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/andreichenchik/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
